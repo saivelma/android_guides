@@ -5,4 +5,4 @@ Merge Conflict Test
 DEV-Feature Branch Conflict
 
 Conflict
-Merge conflict Master
+Merge Dev-Feature
