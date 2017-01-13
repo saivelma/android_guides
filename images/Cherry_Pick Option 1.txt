@@ -6,3 +6,5 @@ DEV-Feature Branch Conflict
 
 Conflict
 Merge Dev-Feature
+
+Example for Git commit
