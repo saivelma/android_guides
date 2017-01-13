@@ -1,10 +1,6 @@
 This is to test Cherry Pick option in Source Tree
+<<<<<<< HEAD
+Sudheer Shashank 
+=======
 Sudheer
-Merge Conflict Test
-
-DEV-Feature Branch Conflict
-
-Conflict
-Merge Dev-Feature
-
-Example for Git commit
+>>>>>>> e22abe5... Changes to Cherrypick ooption one
